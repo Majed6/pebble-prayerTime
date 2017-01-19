@@ -1,0 +1,17 @@
+{
+    "appKeys": {},
+    "companyName": "majed@dee.codes",
+    "longName": "PrayerTimes",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "PrayerTimes",
+    "uuid": "72c5d60c-1987-463c-881a-83017fff43ab",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
